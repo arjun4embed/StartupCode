@@ -1,2 +1,2 @@
 # StartupCode
-Startup code for STM32 NUCLEO F446RE
+Startup code for STM2F446 NUCLEO-64
